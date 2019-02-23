@@ -12,7 +12,7 @@ function johnLennonFacts(facts) {
   i = 0
   while(i < facts.length){
     str = `${facts[i]}!!!`
-    ary.push(str)
+    ary.push()
     i++
   }
   return ary
