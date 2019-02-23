@@ -11,8 +11,7 @@ function johnLennonFacts(facts) {
   var ary = []
   i = 0
   while(i < facts.length){
-    str = `${facts[i]}!!!`
-    ary.push()
+    ary.push(`${facts[i]}!!!`)
     i++
   }
   return ary
